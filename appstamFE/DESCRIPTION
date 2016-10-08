@@ -1,0 +1,9 @@
+Package: appstamFE
+Type: Package
+Title: Collection of Functions for Front End / Graphics
+Version: 1.0
+Author: Appstam Consulting GmbH
+Maintainer: Appstam Consulting GmbH <software@appstam.com>
+Description: Collection of Functions for Front End / Graphics
+License: GNU GPL 3
+LazyData: TRUE
